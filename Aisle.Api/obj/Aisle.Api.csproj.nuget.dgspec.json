@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chase\\Downloads\\Aisle\\Aisle.Api\\Aisle.Api.csproj": {}
+    "C:\\Users\\Chase\\Downloads\\aisle\\Aisle.Api\\Aisle.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chase\\Downloads\\Aisle\\Aisle.Api\\Aisle.Api.csproj": {
+    "C:\\Users\\Chase\\Downloads\\aisle\\Aisle.Api\\Aisle.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chase\\Downloads\\Aisle\\Aisle.Api\\Aisle.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Chase\\Downloads\\aisle\\Aisle.Api\\Aisle.Api.csproj",
         "projectName": "Aisle.Api",
-        "projectPath": "C:\\Users\\Chase\\Downloads\\Aisle\\Aisle.Api\\Aisle.Api.csproj",
+        "projectPath": "C:\\Users\\Chase\\Downloads\\aisle\\Aisle.Api\\Aisle.Api.csproj",
         "packagesPath": "C:\\Users\\Chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chase\\Downloads\\Aisle\\Aisle.Api\\obj\\",
+        "outputPath": "C:\\Users\\Chase\\Downloads\\aisle\\Aisle.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
